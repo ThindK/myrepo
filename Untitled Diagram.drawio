@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T06:02:29.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="K3JTcPLU95efE07izkO1" version="15.3.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-28T06:03:11.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="JnZfkno5U3fzv9nSzJKm" version="15.3.5" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -331,12 +331,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJ8oZhVi4A6zWBfsme-V" name="Access and Directory Management Services">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N-BHXD9uO94G_v4G9a9I-0" />
         <mxCell id="N-BHXD9uO94G_v4G9a9I-1" parent="N-BHXD9uO94G_v4G9a9I-0" />
         <mxCell id="7XG-mAJkzpiDxBTZkSnl-0" value="Access and Directory Management Services&amp;nbsp;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="N-BHXD9uO94G_v4G9a9I-1">
-          <mxGeometry x="100" y="161" width="1320" height="700" as="geometry" />
+          <mxGeometry x="100" y="161" width="1100" height="700" as="geometry" />
         </mxCell>
         <UserObject label="Jesse Piccin&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Director, Access and Directory Management Services&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Jesse Piccin" Position="Director" Organization="ADMS - Access &amp; Directory Management Services" email="Jesse.Piccin@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-1">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
