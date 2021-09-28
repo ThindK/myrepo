@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T16:26:50.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Uuqio9hs6gIVoL75Gz2L" version="15.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-28T16:45:16.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ijOI5fka9RCes4e9yKLd" version="15.3.5" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ucI1gstZumHgKtb_26d9" name="ISP-Information Privacy and Security org chart">
-    <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qZ4l3li3OhjKVmUn_5Yf-0" />
         <mxCell id="qZ4l3li3OhjKVmUn_5Yf-1" parent="qZ4l3li3OhjKVmUn_5Yf-0" />
@@ -161,7 +161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDOXWKOzfigFdYHw0v1W" name="Advisory Services">
-    <mxGraphModel dx="1886" dy="2891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="2843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rqQ3qo8qsGK3bOTKJYbh-0" />
         <mxCell id="rqQ3qo8qsGK3bOTKJYbh-1" parent="rqQ3qo8qsGK3bOTKJYbh-0" />
@@ -321,12 +321,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJ8oZhVi4A6zWBfsme-V" name="Access and Directory Management Services">
-    <mxGraphModel dx="1886" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N-BHXD9uO94G_v4G9a9I-0" />
         <mxCell id="N-BHXD9uO94G_v4G9a9I-1" parent="N-BHXD9uO94G_v4G9a9I-0" />
         <mxCell id="7XG-mAJkzpiDxBTZkSnl-0" value="Access and Directory Management Services&amp;nbsp;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="N-BHXD9uO94G_v4G9a9I-1" vertex="1">
-          <mxGeometry x="100" y="161" width="1100" height="700" as="geometry" />
+          <mxGeometry x="101" y="161" width="1159" height="700" as="geometry" />
         </mxCell>
         <UserObject label="Jesse Piccin&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Director, Access and Directory Management Services&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Jesse Piccin" Position="Director" Organization="ADMS - Access &amp; Directory Management Services" email="Jesse.Piccin@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-1">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="7XG-mAJkzpiDxBTZkSnl-0" vertex="1">
@@ -384,26 +384,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-22" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" source="7XG-mAJkzpiDxBTZkSnl-1" target="3w2OpVWbwlHzZPCRK1aW-11" edge="1">
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-22" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" source="7XG-mAJkzpiDxBTZkSnl-1" target="3w2OpVWbwlHzZPCRK1aW-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="455" y="140" as="sourcePoint" />
             <mxPoint x="147.97000000000003" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="500" />
+              <mxPoint x="509" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Justin Thomson&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Technical Support Analyst, ADMSSD -&amp;nbsp; Services Delivery&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Justin Thomson" Position="Technical Support Analyst" Organization="ADMSSD - Service Delivery" email="Justin.Thomson@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-37">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="7XG-mAJkzpiDxBTZkSnl-0" vertex="1">
-            <mxGeometry x="840" y="560" width="200" height="80" as="geometry" />
+            <mxGeometry x="779" y="560" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-40" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" target="3w2OpVWbwlHzZPCRK1aW-37" edge="1">
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-40" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" target="3w2OpVWbwlHzZPCRK1aW-37" edge="1" source="7XG-mAJkzpiDxBTZkSnl-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="150" as="sourcePoint" />
             <mxPoint x="800" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="600" />
+              <mxPoint x="1029" y="339" />
+              <mxPoint x="709" y="79" />
               <mxPoint x="770" y="400" />
               <mxPoint x="780" y="230" />
               <mxPoint x="820" y="150" />
@@ -412,37 +413,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-42" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" target="7XG-mAJkzpiDxBTZkSnl-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="525" y="150" as="sourcePoint" />
-            <mxPoint x="540" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="Jonathan Borrows&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Senior Application Specialist, ADMSSD - Services Delivery&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Jonathan Borrows" Position="Senior Application Specialist" Organization="ADMSSD - Service Delivery" email="Jonathan.Borrows@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-44">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="7XG-mAJkzpiDxBTZkSnl-0" vertex="1">
-            <mxGeometry x="840" y="180" width="200" height="80" as="geometry" />
+            <mxGeometry x="779" y="180" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Tonja Quinn&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Senior Technical Service Lead, ADMSSD - Services Delivery&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Tonja Quinn" Position="Senior Technical Service Lead" Organization="ADMSSD - Service Delivery" email="Tonja.Quinn@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-45">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="7XG-mAJkzpiDxBTZkSnl-0" vertex="1">
-            <mxGeometry x="840" y="310" width="200" height="80" as="geometry" />
+            <mxGeometry x="779" y="310" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Kristine L Hughes&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Technical Support Analyst, ADMSSD - Services Delivery&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Kristine L Hughes" Position="Technical Support Analyst" Organization="ADMSSD - Service Delivery" email="Kristine.Hughes@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-46">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="7XG-mAJkzpiDxBTZkSnl-0" vertex="1">
-            <mxGeometry x="840" y="440" width="200" height="80" as="geometry" />
+            <mxGeometry x="779" y="440" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-48" value="" style="endArrow=classic;html=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" edge="1">
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-48" value="" style="endArrow=classic;html=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" edge="1" target="3w2OpVWbwlHzZPCRK1aW-45" source="7XG-mAJkzpiDxBTZkSnl-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="350" as="sourcePoint" />
-            <mxPoint x="840" y="350" as="targetPoint" />
+            <mxPoint x="1089" y="350" as="sourcePoint" />
+            <mxPoint x="1139" y="349.29" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1029" y="85" />
+              <mxPoint x="1029" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-49" value="" style="endArrow=classic;html=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" target="3w2OpVWbwlHzZPCRK1aW-46" edge="1">
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-49" value="" style="endArrow=classic;html=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" target="3w2OpVWbwlHzZPCRK1aW-46" edge="1" source="7XG-mAJkzpiDxBTZkSnl-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="480" as="sourcePoint" />
+            <mxPoint x="1089" y="480" as="sourcePoint" />
             <mxPoint x="840" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1029" y="85" />
+              <mxPoint x="1029" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="David Jewer&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128) ; font-size: 11px&quot;&gt;Senior Technical Analyst, IDIR Authentication Services&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="David Jewer" Position="Senior Technical Analyst" Organization="IDIR - IDIR Authentication Services" email="David.Jewer@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-5">
@@ -489,35 +492,65 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-23" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="N-BHXD9uO94G_v4G9a9I-1" edge="1" source="7XG-mAJkzpiDxBTZkSnl-1">
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-23" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" edge="1" target="3w2OpVWbwlHzZPCRK1aW-20" source="7XG-mAJkzpiDxBTZkSnl-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="282" as="sourcePoint" />
-            <mxPoint x="640" y="763" as="targetPoint" />
+            <mxPoint x="479" y="121" as="sourcePoint" />
+            <mxPoint x="539" y="602" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="762" />
+              <mxPoint x="489" y="601" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-43" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="N-BHXD9uO94G_v4G9a9I-1" edge="1">
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-47" value="" style="endArrow=classic;html=1;startSize=14;endSize=6;sourcePerimeterSpacing=8;targetPerimeterSpacing=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="7XG-mAJkzpiDxBTZkSnl-0" target="3w2OpVWbwlHzZPCRK1aW-44" edge="1" source="7XG-mAJkzpiDxBTZkSnl-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="310" as="sourcePoint" />
-            <mxPoint x="626" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3w2OpVWbwlHzZPCRK1aW-47" value="" style="endArrow=classic;html=1;startSize=14;endSize=6;sourcePerimeterSpacing=8;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="N-BHXD9uO94G_v4G9a9I-1" target="3w2OpVWbwlHzZPCRK1aW-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="381" as="sourcePoint" />
-            <mxPoint x="910" y="480" as="targetPoint" />
+            <mxPoint x="1089" y="220" as="sourcePoint" />
+            <mxPoint x="1049" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1029" y="85" />
+              <mxPoint x="1029" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-08hfGk7P-e_BbuSAjP5" name="Page-5">
-    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WtG3LAvD9DvlGs4hOhJb-0" />
         <mxCell id="WtG3LAvD9DvlGs4hOhJb-1" parent="WtG3LAvD9DvlGs4hOhJb-0" />
+        <mxCell id="3m5bOjv-PkjGc6sbSOSx-8" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="WtG3LAvD9DvlGs4hOhJb-1">
+          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Avneet" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-9">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3m5bOjv-PkjGc6sbSOSx-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="3m5bOjv-PkjGc6sbSOSx-8" source="3m5bOjv-PkjGc6sbSOSx-9" target="3m5bOjv-PkjGc6sbSOSx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-11">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3m5bOjv-PkjGc6sbSOSx-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="3m5bOjv-PkjGc6sbSOSx-8" source="3m5bOjv-PkjGc6sbSOSx-9" target="3m5bOjv-PkjGc6sbSOSx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-13">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3m5bOjv-PkjGc6sbSOSx-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="3m5bOjv-PkjGc6sbSOSx-8" source="3m5bOjv-PkjGc6sbSOSx-9" target="3m5bOjv-PkjGc6sbSOSx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-15">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
