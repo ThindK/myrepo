@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T16:45:16.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ijOI5fka9RCes4e9yKLd" version="15.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-28T17:53:00.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="TpNsU66JOpV3ZW7JEMKw" version="15.3.5" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ucI1gstZumHgKtb_26d9" name="ISP-Information Privacy and Security org chart">
-    <mxGraphModel dx="1320" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qZ4l3li3OhjKVmUn_5Yf-0" />
         <mxCell id="qZ4l3li3OhjKVmUn_5Yf-1" parent="qZ4l3li3OhjKVmUn_5Yf-0" />
@@ -514,41 +514,192 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-08hfGk7P-e_BbuSAjP5" name="Page-5">
+  <diagram id="-08hfGk7P-e_BbuSAjP5" name="IT Security Operation &amp; Security Investigation and Incident Response Group">
     <mxGraphModel dx="1080" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WtG3LAvD9DvlGs4hOhJb-0" />
         <mxCell id="WtG3LAvD9DvlGs4hOhJb-1" parent="WtG3LAvD9DvlGs4hOhJb-0" />
-        <mxCell id="3m5bOjv-PkjGc6sbSOSx-8" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="WtG3LAvD9DvlGs4hOhJb-1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="3m5bOjv-PkjGc6sbSOSx-8" value="IT Security Operation &amp;amp; Security Investigation and Incident Response Group" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="WtG3LAvD9DvlGs4hOhJb-1">
+          <mxGeometry x="90" y="105" width="1290" height="720" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Avneet" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-9">
+        <UserObject label="Dale Land&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Director, Cyber Intelligence and Investigations&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Dale Land" position="Director" organization="ITSECOPS - IT Security Operations" email="Dale.Land@gov.bc.ca" id="3m5bOjv-PkjGc6sbSOSx-9">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
             <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3m5bOjv-PkjGc6sbSOSx-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="3m5bOjv-PkjGc6sbSOSx-8" source="3m5bOjv-PkjGc6sbSOSx-9" target="3m5bOjv-PkjGc6sbSOSx-11">
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-0" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="3m5bOjv-PkjGc6sbSOSx-9" target="zzXilh6pD7ma3MuhVJhG-1" parent="3m5bOjv-PkjGc6sbSOSx-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;br&gt;&lt;/i&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-11">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Chris Chen&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Manager, IT Security Operations&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Chris Chen" position="Manager" organization="ITSECOPS - IT Security Operations" email="Chris.L.Chen@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="160" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3m5bOjv-PkjGc6sbSOSx-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="3m5bOjv-PkjGc6sbSOSx-8" source="3m5bOjv-PkjGc6sbSOSx-9" target="3m5bOjv-PkjGc6sbSOSx-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" target="zzXilh6pD7ma3MuhVJhG-3" source="zzXilh6pD7ma3MuhVJhG-1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-13">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Austin Henry&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Architect/Team Lead&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Austin Henry" position="Architect/Team Lead" organization="ITSECOPS - IT Security Operations" email="Austin.Henry@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-3">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="270" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="3m5bOjv-PkjGc6sbSOSx-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="3m5bOjv-PkjGc6sbSOSx-8" source="3m5bOjv-PkjGc6sbSOSx-9" target="3m5bOjv-PkjGc6sbSOSx-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-7" source="zzXilh6pD7ma3MuhVJhG-1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="250" />
+              <mxPoint x="540" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="" Position="" Organization="" Email="" id="3m5bOjv-PkjGc6sbSOSx-15">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Jackie K Campbell&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128) ; font-size: 11px&quot;&gt;Service Manager&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Jackie K Campbell" position="Service Manager" organization="ITSECOPS - IT Security Operations" email="Jackie.Campbell@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-7">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="450" y="270" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-9" source="zzXilh6pD7ma3MuhVJhG-1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="250" />
+              <mxPoint x="730" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="James Zhai&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Senior Security Analyst&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="James Zhai" position="Senior Security Analyst" organization="ITSECOPS - IT Security Operations" email="James.Zhai@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-9">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="640" y="270" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-11" source="zzXilh6pD7ma3MuhVJhG-1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="250" />
+              <mxPoint x="920" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Michael Voller&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Network Security Architect&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Michael Voller" position="Network Security Architect" organization="ITSECOPS - IT Security Operations" email="Michael.Voller@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-11">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="830" y="270" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-13" source="zzXilh6pD7ma3MuhVJhG-3" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="190" y="350" />
+              <mxPoint x="190" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Rajeev Dhawan&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Senior Security Analyst&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Rajeev Dhawan" position="Senior Security Analyst" organization="ITSECOPS - IT Security Operations" email="Rajeev.Dhawan@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-13">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="370" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-15" source="zzXilh6pD7ma3MuhVJhG-3" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="190" y="350" />
+              <mxPoint x="190" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Riley Shew&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128) ; font-size: 11px&quot;&gt;Senior Network Security Analyst&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Riley Shew" position="Senior Network Security Analyst" organization="ITSECOPS - IT Security Operations" email="Riley.Shew@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-15">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="470" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-17" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="sourcePoint" />
+            <mxPoint x="256" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="350" />
+              <mxPoint x="190" y="350" />
+              <mxPoint x="190" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Andrew Eng&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Network Security Analyst&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Andrew Eng" position="Network Security Analyst" organization="ITSECOPS - IT Security Operations" email="Andrew.Eng@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-17">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="260" y="580" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-19" source="zzXilh6pD7ma3MuhVJhG-9" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="730" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Tim Allen&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Network Security Analyst&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Tim Allen" position="Network Security Analyst" organization="ITSECOPS - IT Security Operations" email="Tim.Allen@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-19">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="640" y="380" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-21" source="zzXilh6pD7ma3MuhVJhG-11" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="335" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="365" />
+              <mxPoint x="850" y="365" />
+              <mxPoint x="850" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Greg Dalgliesh&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Security Analyst&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Greg Dalgliesh" position="Security Analyst" organization="ITSECOPS - IT Security Operations" email="Greg.Dalgliesh@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-21">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="890" y="380" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" target="zzXilh6pD7ma3MuhVJhG-23" source="zzXilh6pD7ma3MuhVJhG-11" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="335" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="365" />
+              <mxPoint x="850" y="365" />
+              <mxPoint x="850" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Matthew Beckwith&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Senior Security Analyst&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Matthew Beckwith" position="Senior Security Analyst" organization="ITSECOPS - IT Security Operations" email="Matthew.Beckwith@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-23">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="890" y="485" width="190" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="3m5bOjv-PkjGc6sbSOSx-9" target="zzXilh6pD7ma3MuhVJhG-25" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="135" />
+              <mxPoint x="540" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Alex Loffler&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Principal Security Architect, IT Security Operations&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Alex Loffler" position="Principal Security Architect" organization="ITSECOPS - IT Security Operations" email="Alex.Loffler@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-25">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="450" y="160" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zzXilh6pD7ma3MuhVJhG-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="3m5bOjv-PkjGc6sbSOSx-9" target="zzXilh6pD7ma3MuhVJhG-27" parent="3m5bOjv-PkjGc6sbSOSx-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="135" />
+              <mxPoint x="730" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Gwen Lock&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Manager, Security Investigations and Incident Response&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" name="Gwen Lock" position="Manager" organization="SIIRT - Security Investigations and Incident Response" email="Gwen.Lock@gov.bc.ca" id="zzXilh6pD7ma3MuhVJhG-27">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="3m5bOjv-PkjGc6sbSOSx-8">
+            <mxGeometry x="640" y="160" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
