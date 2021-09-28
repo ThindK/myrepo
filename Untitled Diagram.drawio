@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T04:48:13.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="hWR6bdfbpPSUpnqhmlKW" version="15.3.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-28T05:33:27.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="rA91KJq2rMX6dIvC4luO" version="15.3.5" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,13 +91,13 @@
             <mxGeometry x="890" y="440" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="uYkX0x8CzJpUBdpPmqX0-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="uYkX0x8CzJpUBdpPmqX0-6" source="v73PsxsPgjeirW-ovo98-15" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="uYkX0x8CzJpUBdpPmqX0-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="v73PsxsPgjeirW-ovo98-15" target="uYkX0x8CzJpUBdpPmqX0-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="489" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Jesse Piccin" position="Director, Access and Directory Services" email="Jesse.Piccin@gov.bc.ca" placeholders="1" organization="ADMS - Access &amp; Directory Management Services" id="uYkX0x8CzJpUBdpPmqX0-6">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="300" y="445" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
@@ -330,65 +330,126 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="iJ8oZhVi4A6zWBfsme-V" name="Page-4">
+  <diagram id="iJ8oZhVi4A6zWBfsme-V" name="Access and Directory Management Services">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N-BHXD9uO94G_v4G9a9I-0" />
         <mxCell id="N-BHXD9uO94G_v4G9a9I-1" parent="N-BHXD9uO94G_v4G9a9I-0" />
-        <mxCell id="VqFAy5iQUKKBzSvw1ML0-8" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="N-BHXD9uO94G_v4G9a9I-1">
-          <mxGeometry x="20" y="20" width="860" height="290" as="geometry" />
+        <mxCell id="7XG-mAJkzpiDxBTZkSnl-0" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="N-BHXD9uO94G_v4G9a9I-1">
+          <mxGeometry x="100" y="160" width="1320" height="700" as="geometry" />
         </mxCell>
-        <UserObject label="Jesse Piccin&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Director, Access and Directory Management Services&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" name="Jesse Piccin" position="Director, Access and Directory Management Services" email="Jesse.Piccin@gov.bc.ca" placeholders="1" organization="ADMS - Access &amp; Directory Management Services" id="VqFAy5iQUKKBzSvw1ML0-9">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="VqFAy5iQUKKBzSvw1ML0-8">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+        <UserObject label="Jesse Piccin&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Director, Access and Directory Management Services&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Jesse Piccin" Position="Director" Organization="ADMS - Access &amp; Directory Management Services" email="Jesse.Piccin@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-1">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
+            <mxGeometry x="390" y="50" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="VqFAy5iQUKKBzSvw1ML0-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;metaEdit=1;" edge="1" parent="VqFAy5iQUKKBzSvw1ML0-8" target="VqFAy5iQUKKBzSvw1ML0-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="128" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="Chris Flight&lt;br&gt;&lt;font color=&quot;#808080&quot; size=&quot;1&quot;&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;Senior Technical Analyst, IDIR Authentication Services&lt;/i&gt;&lt;/font&gt;" name="Chris Flight" position="Senior Technical Architect" email="chris.flight@gov.bc.ca" placeholders="1" organization="IDIR - IDIR Authentication Services" id="VqFAy5iQUKKBzSvw1ML0-11">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;hachureGap=4;pointerEvents=0;metaEdit=1;" vertex="1" parent="VqFAy5iQUKKBzSvw1ML0-8">
-            <mxGeometry x="40" y="180" width="200" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="VqFAy5iQUKKBzSvw1ML0-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="VqFAy5iQUKKBzSvw1ML0-8" source="VqFAy5iQUKKBzSvw1ML0-9" target="VqFAy5iQUKKBzSvw1ML0-13">
+        <mxCell id="7XG-mAJkzpiDxBTZkSnl-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.463;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7XG-mAJkzpiDxBTZkSnl-0" source="7XG-mAJkzpiDxBTZkSnl-1" target="7XG-mAJkzpiDxBTZkSnl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="David Jewer&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Senior Technical Analyst, IDIR Authentication Services&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" name="David Jewer" position="Senior Technical Analyst" email="David.Jewer@gov.bc.ca" placeholders="1" organization="IDIR - IDIR Authentication Services" id="VqFAy5iQUKKBzSvw1ML0-13">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="VqFAy5iQUKKBzSvw1ML0-8">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Chris Flight&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;Senior Technical Architect, IDIR Authentication Services&lt;br&gt;&lt;/i&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Chris Flight" Position="Senior Technical Architect" Organization="IDIR - IDIR Authentication Services" email="chris.flight@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-3">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
+            <mxGeometry x="40" y="180" width="190" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="VqFAy5iQUKKBzSvw1ML0-14" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="VqFAy5iQUKKBzSvw1ML0-8" source="VqFAy5iQUKKBzSvw1ML0-9" target="VqFAy5iQUKKBzSvw1ML0-15">
+        <UserObject label="Christine Sutherland&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Senior Technical Analyst, WAM &lt;/font&gt;&lt;font color=&quot;#808080&quot;&gt;Web Access Management&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Christine Sutherland" Position="Senior Technical Analyst" Organization="WAM - Web Access Management" email="Christine.Sutherland@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-4">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
+            <mxGeometry x="540" y="180" width="200" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7XG-mAJkzpiDxBTZkSnl-0" source="7XG-mAJkzpiDxBTZkSnl-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="130" as="sourcePoint" />
+            <mxPoint x="540" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="150" />
+              <mxPoint x="490" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Bruce O&#39;Hara&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Senior Technical Analyst,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128) ; font-size: 11px&quot;&gt;IDIR Authentication Services&lt;/i&gt;" name="Bruce O&#39;Hara" position="Senior Technical Analyst" email="Bruce.K.OHara@gov.bc.ca" placeholders="1" organization="IDIR - IDIR Authentication Services" id="VqFAy5iQUKKBzSvw1ML0-15">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="VqFAy5iQUKKBzSvw1ML0-8">
-            <mxGeometry x="460" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Manas Bhattacharya&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Technical Analyst, WAM &lt;/font&gt;&lt;font color=&quot;#808080&quot;&gt;Web Access Management&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Manas Bhattacharya" Position="Technical Analyst" Organization="WAM - Web Access Management" email="Manas.Bhattacharya@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-10">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
+            <mxGeometry x="540" y="310" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wuxXlH_CeUe6NMoiz7lg-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;deletable=0;" edge="1" target="wuxXlH_CeUe6NMoiz7lg-3" parent="VqFAy5iQUKKBzSvw1ML0-8">
+        <UserObject label="Christine Sutherland&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Senior Technical Analyst, WAM &lt;/font&gt;&lt;font color=&quot;#808080&quot;&gt;Web Access Management&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Christine Sutherland" Position="Senior Technical Analyst" Organization="WAM - Web Access Management" email="Christine.Sutherland@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-11">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
+            <mxGeometry x="540" y="440" width="200" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Christine Sutherland&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Senior Technical Analyst, WAM &lt;/font&gt;&lt;font color=&quot;#808080&quot;&gt;Web Access Management&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Christine Sutherland" Position="Senior Technical Analyst" Organization="WAM - Web Access Management" email="Christine.Sutherland@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-20">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="7XG-mAJkzpiDxBTZkSnl-0">
+            <mxGeometry x="540" y="560" width="200" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-21" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7XG-mAJkzpiDxBTZkSnl-0" source="7XG-mAJkzpiDxBTZkSnl-1" target="3w2OpVWbwlHzZPCRK1aW-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="130" as="sourcePoint" />
+            <mxPoint x="445" y="130" as="sourcePoint" />
+            <mxPoint x="137.97000000000003" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="150" />
-              <mxPoint x="590" y="150" />
-              <mxPoint x="710" y="150" />
-              <mxPoint x="750" y="170" />
+              <mxPoint x="480" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Jesse Piccin&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Director, Access and Directory Management Services&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" name="Jesse Piccin" position="Director, Access and Directory Management Services" email="Jesse.Piccin@gov.bc.ca" placeholders="1" organization="ADMS - Access &amp; Directory Management Services" id="wuxXlH_CeUe6NMoiz7lg-3">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;hachureGap=4;pointerEvents=0;deletable=0;" vertex="1" parent="VqFAy5iQUKKBzSvw1ML0-8">
-            <mxGeometry x="660" y="185" width="180" height="70" as="geometry" />
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-22" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7XG-mAJkzpiDxBTZkSnl-0" source="7XG-mAJkzpiDxBTZkSnl-1" target="3w2OpVWbwlHzZPCRK1aW-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="140" as="sourcePoint" />
+            <mxPoint x="147.97000000000003" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="David Jewer&lt;br&gt;&lt;i style=&quot;color: rgb(128 , 128 , 128) ; font-size: 11px&quot;&gt;Senior Technical Analyst, IDIR Authentication Services&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="David Jewer" Position="Senior Technical Analyst" Organization="IDIR - IDIR Authentication Services" email="David.Jewer@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-5">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="N-BHXD9uO94G_v4G9a9I-1">
+            <mxGeometry x="140" y="470" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="7XG-mAJkzpiDxBTZkSnl-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="N-BHXD9uO94G_v4G9a9I-1" source="7XG-mAJkzpiDxBTZkSnl-1" target="7XG-mAJkzpiDxBTZkSnl-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="580" />
+              <mxPoint x="420" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Bruce O&#39;Hara&lt;br&gt;&lt;i style=&quot;font-size: 11px ; color: gray&quot;&gt;Senior Technical Analyst,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;font-size: 11px ; color: rgb(128 , 128 , 128)&quot;&gt;IDIR Authentication Services&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Bruce O&#39;Hara" Position="Senior Technical Analyst" Organization="IDIR - IDIR Authentication Services" email="Bruce.K.OHara@gov.bc.ca" id="7XG-mAJkzpiDxBTZkSnl-7">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="N-BHXD9uO94G_v4G9a9I-1">
+            <mxGeometry x="140" y="600" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7XG-mAJkzpiDxBTZkSnl-6" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="N-BHXD9uO94G_v4G9a9I-1" source="7XG-mAJkzpiDxBTZkSnl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="280" as="sourcePoint" />
+            <mxPoint x="230" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="440" />
+              <mxPoint x="540" y="330" />
+              <mxPoint x="400" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Steve Oates&lt;br&gt;&lt;i style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;Senior Technical Analyst,&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;font-size: 11px ; color: rgb(128 , 128 , 128)&quot;&gt;IDIR Authentication Services&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Jesse.Piccin@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" placeholders="1" Name="Steve Oates" Position="Senior Technical Analyst" Organization="IDIR - IDIR Authentication Services" email="Steve.Oates@gov.bc.ca" id="3w2OpVWbwlHzZPCRK1aW-2">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="N-BHXD9uO94G_v4G9a9I-1">
+            <mxGeometry x="140" y="730" width="190" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-3" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="N-BHXD9uO94G_v4G9a9I-1" source="7XG-mAJkzpiDxBTZkSnl-1" target="3w2OpVWbwlHzZPCRK1aW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="320" as="sourcePoint" />
+            <mxPoint x="690" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3w2OpVWbwlHzZPCRK1aW-23" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N-BHXD9uO94G_v4G9a9I-1" target="3w2OpVWbwlHzZPCRK1aW-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="sourcePoint" />
+            <mxPoint x="257.97" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
