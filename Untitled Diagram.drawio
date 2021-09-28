@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T00:05:48.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="zBU2EZORWBq7JgNtapn_" version="15.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-28T00:06:04.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="kSc7Ix1K9nkgr7hjuTU5" version="15.2.9" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,84 +89,6 @@
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Don Costello" position="Director, Information Security" email="Don.Costello@gov.bc.ca" placeholders="1" organization="ADVSVCS - Advisory Services" id="v73PsxsPgjeirW-ovo98-25">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="890" y="440" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="yKisYHQDmTuEFaaTEc6v-1" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="yKisYHQDmTuEFaaTEc6v-2" source="v73PsxsPgjeirW-ovo98-25" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="489" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="990" y="512" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Trace Muldoon" position="Manager, Security Governance &amp; Engagement/Awareness" email="Trace.Muldoon@gov.bc.ca" placeholders="1" organization="SECAWARE - Security Awareness" id="yKisYHQDmTuEFaaTEc6v-2">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="890" y="580" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="yKisYHQDmTuEFaaTEc6v-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="yKisYHQDmTuEFaaTEc6v-6" source="yKisYHQDmTuEFaaTEc6v-2" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="629" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="601" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Bonnie Beyea" position="Senior Security Analyst" email="Bonnie.Beyea@gov.bc.ca" placeholders="1" organization="SECAWARE - Security Awareness" id="yKisYHQDmTuEFaaTEc6v-6">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="890" y="720" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="yKisYHQDmTuEFaaTEc6v-7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="yKisYHQDmTuEFaaTEc6v-8" source="yKisYHQDmTuEFaaTEc6v-2" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="629" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="601" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Mackenzie Friesen" position="Security Analyst" email="Mackenzie.Friesen@gov.bc.ca" placeholders="1" organization="SECAWARE - Security Awareness" id="yKisYHQDmTuEFaaTEc6v-8">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1080" y="720" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="yKisYHQDmTuEFaaTEc6v-9" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="yKisYHQDmTuEFaaTEc6v-10" source="yKisYHQDmTuEFaaTEc6v-2" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="629" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="601" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Jarin James" position="Security Analyst" email="Jarin.James@gov.bc.ca" placeholders="1" organization="SECAWARE - Security Awareness" id="yKisYHQDmTuEFaaTEc6v-10">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1270" y="720" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="yKisYHQDmTuEFaaTEc6v-11" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="yKisYHQDmTuEFaaTEc6v-12" source="yKisYHQDmTuEFaaTEc6v-2" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="629" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="601" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Kristina Petrosyan" position="Senior Security Analyst" email="Kristina.Petrosyan@gov.bc.ca" placeholders="1" organization="SECAWARE - Security Awareness" id="yKisYHQDmTuEFaaTEc6v-12">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1460" y="720" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="yKisYHQDmTuEFaaTEc6v-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="yKisYHQDmTuEFaaTEc6v-14" source="yKisYHQDmTuEFaaTEc6v-2" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="629" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="601" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Monika Weatherly" position="Security Analyst" email="" placeholders="1" organization="SECAWARE - Security Awareness" id="yKisYHQDmTuEFaaTEc6v-14">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="1650" y="720" width="210" height="100" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
