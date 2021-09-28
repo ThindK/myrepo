@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T16:25:24.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="LUKzPH0GQQPL7Am_stfZ" version="15.3.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-28T16:26:50.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Uuqio9hs6gIVoL75Gz2L" version="15.3.5" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,16 +58,6 @@
             <mxGeometry x="490" y="300" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="v73PsxsPgjeirW-ovo98-20" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="v73PsxsPgjeirW-ovo98-15" target="v73PsxsPgjeirW-ovo98-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="622" y="322" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Jesse Piccin" position="Director, Access and Directory Services" email="Jesse.Piccin@gov.bc.ca" placeholders="1" organization="ADMS - Access &amp; Directory Management Services" id="v73PsxsPgjeirW-ovo98-21">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="445" width="180" height="100" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="v73PsxsPgjeirW-ovo98-22" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="v73PsxsPgjeirW-ovo98-15" target="v73PsxsPgjeirW-ovo98-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="622" y="322" as="sourcePoint" />
@@ -75,7 +65,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Dale Land" position="Director, Cyber Intelligence and Investigation" email="Dale.Land@gov.bc.ca" placeholders="1" organization="ITSECOPS - IT Security Operations&#xa;&amp;&#xa;SIIRT - Security Investigations and Incident Response" id="v73PsxsPgjeirW-ovo98-23">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="690" y="445" width="180" height="100" as="geometry" />
+            <mxGeometry x="510" y="445" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="v73PsxsPgjeirW-ovo98-24" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="v73PsxsPgjeirW-ovo98-15" target="v73PsxsPgjeirW-ovo98-25" edge="1">
@@ -88,7 +78,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Don Costello" position="Director, Information Security" email="Don.Costello@gov.bc.ca" placeholders="1" organization="ADVSVCS - Advisory Services" id="v73PsxsPgjeirW-ovo98-25">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="890" y="440" width="180" height="100" as="geometry" />
+            <mxGeometry x="720" y="445" width="180" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="uYkX0x8CzJpUBdpPmqX0-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="v73PsxsPgjeirW-ovo98-15" target="uYkX0x8CzJpUBdpPmqX0-6" edge="1">
@@ -331,7 +321,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iJ8oZhVi4A6zWBfsme-V" name="Access and Directory Management Services">
-    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N-BHXD9uO94G_v4G9a9I-0" />
         <mxCell id="N-BHXD9uO94G_v4G9a9I-1" parent="N-BHXD9uO94G_v4G9a9I-0" />
@@ -520,6 +510,14 @@
             <mxPoint x="910" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-08hfGk7P-e_BbuSAjP5" name="Page-5">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="WtG3LAvD9DvlGs4hOhJb-0" />
+        <mxCell id="WtG3LAvD9DvlGs4hOhJb-1" parent="WtG3LAvD9DvlGs4hOhJb-0" />
       </root>
     </mxGraphModel>
   </diagram>
