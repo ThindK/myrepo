@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T00:06:04.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="kSc7Ix1K9nkgr7hjuTU5" version="15.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-28T00:06:49.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Z7eqj-JMeCj-lukrNQkT" version="15.2.9" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
             <mxPoint x="1230" y="-680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-0Sq7_ZNC0-nOio30Pgc-0" value="VRM-Vulnerability and Risk Management" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="rqQ3qo8qsGK3bOTKJYbh-1">
+        <mxCell id="-0Sq7_ZNC0-nOio30Pgc-0" value="Advisory Services" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="rqQ3qo8qsGK3bOTKJYbh-1">
           <mxGeometry x="520" y="-1110" width="1840" height="730" as="geometry" />
         </mxCell>
         <UserObject label="Trace Muldoon&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;Manager, Security Governance $ Engagement/Awareness&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Trace.Muldoon@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" name="Trace Muldoon" position="Manager, Security Governance $ Engagement/Awareness" email="Trace.Muldoon@gov.bc.ca" placeholders="1" organization="SECAWARE - Security Awareness" id="lxsl5r0ngIAoYixiZqqR-0">
