@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T18:03:19.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="k37Z1itNjheo9izWXu-b" version="15.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-28T18:03:48.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="mEaj_bSENcx-0yOcY47e" version="15.3.5" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
-    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3600" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="OCIO Security Groups&amp;nbsp;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;metaEdit=1;dropTarget=0;swimlaneLine=1;swimlaneFillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="210" y="89" width="1150" height="1111" as="geometry" />
+          <mxGeometry x="210" y="89" width="980" height="641" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot; style=&quot;font-size: 11px&quot;&gt;Email&lt;/a&gt;" name="CJ Ritchie" position="Associate Deputy Minister &amp; Government Chief Information Officer (GCIO)" email="CJ.Ritchie@gov.bc.ca" placeholders="1" organization="CIO - Office of the Associate Deputy Minister and Government Chief Information Officer&#xa;" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;gradientColor=#ffffff;fillColor=default;dropTarget=1;metaEdit=1;comic=0;expand=1;container=0;noLabel=0;portConstraintRotation=0;connectable=1;snapToPoint=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
