@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T18:01:23.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="eVdUb6LG4LD_zYhY-oFq" version="15.3.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-28T18:03:19.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="k37Z1itNjheo9izWXu-b" version="15.3.5" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="OCIO-org chart">
     <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,62 +95,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ucI1gstZumHgKtb_26d9" name="ISP-Information Privacy and Security org chart">
-    <mxGraphModel dx="1080" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5560" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qZ4l3li3OhjKVmUn_5Yf-0" />
         <mxCell id="qZ4l3li3OhjKVmUn_5Yf-1" parent="qZ4l3li3OhjKVmUn_5Yf-0" />
+        <mxCell id="t5G5uh1Kp2x6xLm8tgiS-2" value="" style="group" vertex="1" connectable="0" parent="qZ4l3li3OhjKVmUn_5Yf-1">
+          <mxGeometry x="-3160" y="-2090" width="850" height="746" as="geometry" />
+        </mxCell>
         <UserObject label="Garry Mierzuak&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Ministry Information Security Officer (MISO)&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Garry.Mierzuak@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" name="Garry Mierzuak" position="Ministry Information Security Officer (MISO)" email="Garry.Mierzuak@gov.bc.ca" placeholders="1" organization="IMB Information Privacy and Security" id="SdTfen1lz5qg2SUIvMbw-0">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="qZ4l3li3OhjKVmUn_5Yf-1" vertex="1">
-            <mxGeometry x="350" y="80" width="210" height="100" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="t5G5uh1Kp2x6xLm8tgiS-2" vertex="1">
+            <mxGeometry x="350" y="316" width="210" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dvrZ-WcR8MNvTjGQvd33-0" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="qZ4l3li3OhjKVmUn_5Yf-1" source="SdTfen1lz5qg2SUIvMbw-0" target="dvrZ-WcR8MNvTjGQvd33-1" edge="1">
+        <mxCell id="dvrZ-WcR8MNvTjGQvd33-0" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="t5G5uh1Kp2x6xLm8tgiS-2" source="SdTfen1lz5qg2SUIvMbw-0" target="dvrZ-WcR8MNvTjGQvd33-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="187" y="734" as="sourcePoint" />
+            <mxPoint x="187" y="970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Paul Rai&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;Senior Security Analyst&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Paul.Rai@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" name="Paul Rai" position="Senior Security Analyst" email="Paul.Rai@gov.bc.ca" placeholders="1" organization="IMB Information Privacy and Security" id="dvrZ-WcR8MNvTjGQvd33-1">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="qZ4l3li3OhjKVmUn_5Yf-1" vertex="1">
-            <mxGeometry x="350" y="340" width="210" height="100" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="t5G5uh1Kp2x6xLm8tgiS-2" vertex="1">
+            <mxGeometry x="350" y="576" width="210" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dvrZ-WcR8MNvTjGQvd33-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="qZ4l3li3OhjKVmUn_5Yf-1" source="SdTfen1lz5qg2SUIvMbw-0" target="dvrZ-WcR8MNvTjGQvd33-3" edge="1">
+        <mxCell id="dvrZ-WcR8MNvTjGQvd33-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="t5G5uh1Kp2x6xLm8tgiS-2" source="SdTfen1lz5qg2SUIvMbw-0" target="dvrZ-WcR8MNvTjGQvd33-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="187" y="734" as="sourcePoint" />
+            <mxPoint x="187" y="970" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="500" y="230" />
-              <mxPoint x="450" y="510" />
+              <mxPoint x="500" y="466" />
+              <mxPoint x="450" y="746" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Ariadne Powell&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;Senior Security Analyst&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Ariadne.Powell@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" name="Ariadne Powell" position="Senior Security Analyst" email="Ariadne.Powell@gov.bc.ca" placeholders="1" organization="IMB Information Privacy and Security" id="dvrZ-WcR8MNvTjGQvd33-3">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="qZ4l3li3OhjKVmUn_5Yf-1" vertex="1">
-            <mxGeometry x="600" y="340" width="210" height="100" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="t5G5uh1Kp2x6xLm8tgiS-2" vertex="1">
+            <mxGeometry x="600" y="576" width="210" height="100" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Calder Brown&lt;br&gt;&lt;i style=&quot;color: gray ; font-size: 11px&quot;&gt;Senior Security Analyst&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Calder.Brown@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" name="Calder Brown" position="Senior Security Analyst" email="Calder.Brown@gov.bc.ca" placeholders="1" organization="IMB Information Privacy and Security" id="dvrZ-WcR8MNvTjGQvd33-4">
-          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="qZ4l3li3OhjKVmUn_5Yf-1" vertex="1">
-            <mxGeometry x="100" y="340" width="210" height="100" as="geometry" />
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="t5G5uh1Kp2x6xLm8tgiS-2" vertex="1">
+            <mxGeometry x="100" y="576" width="210" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dvrZ-WcR8MNvTjGQvd33-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="qZ4l3li3OhjKVmUn_5Yf-1" source="SdTfen1lz5qg2SUIvMbw-0" target="dvrZ-WcR8MNvTjGQvd33-4" edge="1">
+        <mxCell id="dvrZ-WcR8MNvTjGQvd33-5" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="t5G5uh1Kp2x6xLm8tgiS-2" source="SdTfen1lz5qg2SUIvMbw-0" target="dvrZ-WcR8MNvTjGQvd33-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="470" as="sourcePoint" />
-            <mxPoint x="705" y="570" as="targetPoint" />
+            <mxPoint x="445" y="706" as="sourcePoint" />
+            <mxPoint x="705" y="806" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="230" />
-              <mxPoint x="310" y="510" />
+              <mxPoint x="380" y="466" />
+              <mxPoint x="310" y="746" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oMF8QTFkqLxiqysbtOMA-1" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="qZ4l3li3OhjKVmUn_5Yf-1" source="R9Cr3xqox11sZa4VE1uC-0" edge="1">
+        <mxCell id="oMF8QTFkqLxiqysbtOMA-1" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="t5G5uh1Kp2x6xLm8tgiS-2" source="R9Cr3xqox11sZa4VE1uC-0" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="639" as="sourcePoint" />
-            <mxPoint x="455" y="80" as="targetPoint" />
+            <mxPoint x="355" y="875" as="sourcePoint" />
+            <mxPoint x="455" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1ly8iMYacWjRFcpsfIwy-0" value="ISP-Information Privacy and Security" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="qZ4l3li3OhjKVmUn_5Yf-1" vertex="1">
-          <mxGeometry y="-236" width="850" height="730" as="geometry" />
+        <mxCell id="1ly8iMYacWjRFcpsfIwy-0" value="ISP-Information Privacy and Security" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="t5G5uh1Kp2x6xLm8tgiS-2" vertex="1">
+          <mxGeometry width="850" height="730" as="geometry" />
         </mxCell>
         <UserObject label="Dan Lathigee&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Director &amp;amp; Ministry Privacy Officer (MPO)&lt;/font&gt;&lt;br&gt;&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:Dan.Lathigee@gov.bc.ca&quot;&gt;Email&lt;/a&gt;" name="Dan Lathigee" position="Director &amp; Ministry Privacy Officer (MPO)&#xa;" email="Dan.Lathigee@gov.bc.ca" placeholders="1" organization="IMB Information Privacy and Security" id="R9Cr3xqox11sZa4VE1uC-0">
           <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="1ly8iMYacWjRFcpsfIwy-0" vertex="1">
